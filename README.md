@@ -26,6 +26,11 @@ Applications: Scientific & Biomedical Visualization, Digital Architecture Design
 http://cret.cnu.edu.cn/szdw/js/79569.htm
 #### （2）简介
 > 研究小组主要研究方向为：遥感卫星设计与数据预处理、多传感器激光雷达集成与后处理、深度学习与计算机视觉
+### 6.中科院遥感所 王成教授团队
+#### （1）团队主页
+http://lidar.radi.ac.cn/
+#### （2）简介
+> 中科院遥感与数字地球研究所激光雷达遥感团队于2009年10月由王成研究员创建，专注激光雷达遥感机理、激光雷达植被参数反演、激光雷达三维建模以及其他各种应用。
 ## 二、美国
 ### 1. 普渡大学 Habib教授团队
 #### （1）主页
