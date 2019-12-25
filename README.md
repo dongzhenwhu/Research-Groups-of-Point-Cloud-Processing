@@ -14,7 +14,7 @@ http://3s.whu.edu.cn/ybs/index.htm
 ### 3.北京师范大学 张立强
 #### (1)个人主页
 http://www.escience.cn/people/zhangliqiang/index.html
-### 3.北京大学、山东大学 陈宝权
+### 4.北京大学、山东大学 陈宝权
 #### (1)个人主页
 http://cfcs.pku.edu.cn/baoquan/
 #### (2)Research Interests
