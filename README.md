@@ -60,6 +60,19 @@ Computer Graphics, Computer Vision, Image Processing and Analysis
 ####  (1) 主页
 http://caor-mines-paristech.fr/en/research/point-cloud-and-3d-modeling-pc3dm/
 ## 四、德国
+### 1.
+#### (1)个人主页
+http://www.ipb.uni-bonn.de/people/cyrill-stachniss/
+#### (2)简介
+> Research Interests
+Probabilistic Robotics
+Localization, Mapping, SLAM, Bundle Adjustment
+Autonomous Navigation and Exploration
+Visual and Laser Perception
+Scene Analysis and Classification
+Robotics for Agriculture
+Unmanned Aerial Vehicles (UAVs and MAVs)
+Autonomous Cars, Logistics, Wheeled Robots, …
 ## 五、中国香港
 ## 六、加拿大
 ## 七、英国
