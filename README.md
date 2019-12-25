@@ -21,6 +21,11 @@ http://cfcs.pku.edu.cn/baoquan/
 General Interests: Computer Graphics and Visualization
 Specific Interests: Large Environment Acquisition, Accelerated Rendering, Antialiasing, Volume Visualization
 Applications: Scientific & Biomedical Visualization, Digital Architecture Design, Art and Entertainment
+### 5.首都师范大学 钟若飞
+#### （1）个人主页
+http://cret.cnu.edu.cn/szdw/js/79569.htm
+#### （2）简介
+> 研究小组主要研究方向为：遥感卫星设计与数据预处理、多传感器激光雷达集成与后处理、深度学习与计算机视觉
 ## 二、美国
 ### 1. 普渡大学 Habib教授团队
 #### （1）主页
