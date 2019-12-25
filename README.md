@@ -18,7 +18,15 @@ http://www.escience.cn/people/zhangliqiang/index.html
 ### 1. 普渡大学 Habib教授团队
 #### （1）主页
 https://engineering.purdue.edu/CE/Academics/Groups/Geomatics/DPRG
+### 2. Hunter College of City University of New York Ioannis Stamos教授团队
+#### （1）主页
+http://www.cs.hunter.cuny.edu/~ioannis/
+####  (2) Google Scholar
+https://scholar.google.com/citations?hl=en&user=ENLTjooAAAAJ&view_op=list_works&sortby=pubdate
 ## 三、法国
+### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
+####  (1) 主页
+http://caor-mines-paristech.fr/en/research/point-cloud-and-3d-modeling-pc3dm/
 ## 四、德国
 ## 五、中国香港
 ## 六、加拿大
