@@ -75,6 +75,9 @@ Unmanned Aerial Vehicles (UAVs and MAVs)
 Autonomous Cars, Logistics, Wheeled Robots, …
 ## 五、中国香港
 ## 六、加拿大
+### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
+#### (1)团队主页
+https://www2.cs.sfu.ca/~furukawa/
 ## 七、英国
 ## 八、荷兰
 ### 1.University of Twente， George Vosselman
@@ -84,6 +87,9 @@ https://research.utwente.nl/en/persons/george-vosselman
 ### 1.The University of Adelaide
 #### 研究所主页
 https://www.adelaide.edu.au/aiml/our-research
+### 2. Department of Infrastructure Engineering, University of Melbourne Kourosh Khoshelham教授团队
+#### (1)团队主页
+https://people.eng.unimelb.edu.au/kkhoshelham/people.html
 ## 十、瑞士
 ### 1.ETH Zurich, Institute of Geodesy and Photogrammetry
 #### (1)团队主页
