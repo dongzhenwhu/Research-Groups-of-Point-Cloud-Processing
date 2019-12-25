@@ -23,6 +23,11 @@ https://engineering.purdue.edu/CE/Academics/Groups/Geomatics/DPRG
 http://www.cs.hunter.cuny.edu/~ioannis/
 ####  (2) Google Scholar
 https://scholar.google.com/citations?hl=en&user=ENLTjooAAAAJ&view_op=list_works&sortby=pubdate
+### 3. 南加州大学 Computer Graphics and Immersive Technologies (CGIT) laboratory
+#### (1)主页
+https://graphics.usc.edu/cgit/index.php
+#### (2)简介
+The fields of computer graphics, computer vision, and immersive technologies all fall within the lab's scope. Activities in the lab range from fundamental algorithms and mathematical methods to systems and application prototypes. Students engage in interdisciplinary research driven by realistic needs and problems. Unique domain knowledge is obtained through the laboratory's twenty-year history of close ties to multidisciplinary centers such as CiSoft (Center for Interactive Smart Oilfield Technologies) and IMSC (Integrated Media Systems Center).
 ## 三、法国
 ### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
 ####  (1) 主页
