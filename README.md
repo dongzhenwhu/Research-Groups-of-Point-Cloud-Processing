@@ -14,6 +14,13 @@ http://3s.whu.edu.cn/ybs/index.htm
 ### 3.北京师范大学 张立强
 #### (1)个人主页
 http://www.escience.cn/people/zhangliqiang/index.html
+### 3.北京大学、山东大学 陈宝权
+#### (1)个人主页
+http://cfcs.pku.edu.cn/baoquan/
+#### (2)Research Interests
+General Interests: Computer Graphics and Visualization
+Specific Interests: Large Environment Acquisition, Accelerated Rendering, Antialiasing, Volume Visualization
+Applications: Scientific & Biomedical Visualization, Digital Architecture Design, Art and Entertainment
 ## 二、美国
 ### 1. 普渡大学 Habib教授团队
 #### （1）主页
@@ -28,6 +35,16 @@ https://scholar.google.com/citations?hl=en&user=ENLTjooAAAAJ&view_op=list_works&
 https://graphics.usc.edu/cgit/index.php
 #### (2)简介
 The fields of computer graphics, computer vision, and immersive technologies all fall within the lab's scope. Activities in the lab range from fundamental algorithms and mathematical methods to systems and application prototypes. Students engage in interdisciplinary research driven by realistic needs and problems. Unique domain knowledge is obtained through the laboratory's twenty-year history of close ties to multidisciplinary centers such as CiSoft (Center for Interactive Smart Oilfield Technologies) and IMSC (Integrated Media Systems Center).
+### 4. New York University, Chen Feng, AI4CE Lab
+#### (1)团队主页
+https://ai4ce.github.io/
+### 5. Louisiana State University, Xin Li
+#### (1)主页
+http://www.ece.lsu.edu/xinli/
+#### (2)Research Interests: Geometric & Visual Computing
+Geometric Data Processing
+Large-scale Visual (Geometric/Image/Spatiotemporal) Data Modeling and Understanding
+Computer Graphics, Computer Vision, Image Processing and Analysis
 ## 三、法国
 ### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
 ####  (1) 主页
