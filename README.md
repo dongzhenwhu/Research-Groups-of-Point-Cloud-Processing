@@ -4,6 +4,8 @@ This reprostory is build for anyone who wants to do research about 3D point clou
 If you have some suggestions, please contact dongzhenwhu@whu.edu.cn. Thanks for your valuable contribution.
 ## 一、中国大陆
 ### 1. 厦门大学 李军、王程教授团队
+#### (1)王程教授主页
+http://www.cwang93.net/
 ### 2. 武汉大学 杨必胜教授团队
 #### （1）主页
 http://3s.whu.edu.cn/ybs/index.htm
