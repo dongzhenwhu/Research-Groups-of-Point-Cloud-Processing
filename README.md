@@ -20,7 +20,7 @@ http://www.escience.cn/people/zhangliqiang/index.html
 #### (1)个人主页
 http://cfcs.pku.edu.cn/baoquan/
 #### （2）Research Interests
-General Interests: Computer Graphics and Visualization
+> General Interests: Computer Graphics and Visualization
 Specific Interests: Large Environment Acquisition, Accelerated Rendering, Antialiasing, Volume Visualization
 Applications: Scientific & Biomedical Visualization, Digital Architecture Design, Art and Entertainment
 ### 5. 首都师范大学 钟若飞
@@ -57,7 +57,7 @@ https://scholar.google.com/citations?hl=en&user=ENLTjooAAAAJ&view_op=list_works&
 #### （1）主页
 https://graphics.usc.edu/cgit/index.php
 #### （2）简介
-The fields of computer graphics, computer vision, and immersive technologies all fall within the lab's scope. Activities in the lab range from fundamental algorithms and mathematical methods to systems and application prototypes. Students engage in interdisciplinary research driven by realistic needs and problems. Unique domain knowledge is obtained through the laboratory's twenty-year history of close ties to multidisciplinary centers such as CiSoft (Center for Interactive Smart Oilfield Technologies) and IMSC (Integrated Media Systems Center).
+> The fields of computer graphics, computer vision, and immersive technologies all fall within the lab's scope. Activities in the lab range from fundamental algorithms and mathematical methods to systems and application prototypes. Students engage in interdisciplinary research driven by realistic needs and problems. Unique domain knowledge is obtained through the laboratory's twenty-year history of close ties to multidisciplinary centers such as CiSoft (Center for Interactive Smart Oilfield Technologies) and IMSC (Integrated Media Systems Center).
 ### 4. New York University, Chen Feng, AI4CE Lab
 #### （1）团队主页
 https://ai4ce.github.io/
@@ -65,7 +65,7 @@ https://ai4ce.github.io/
 #### （1）主页
 http://www.ece.lsu.edu/xinli/
 #### (2)Research Interests: Geometric & Visual Computing
-Geometric Data Processing
+> Geometric Data Processing
 Large-scale Visual (Geometric/Image/Spatiotemporal) Data Modeling and Understanding
 Computer Graphics, Computer Vision, Image Processing and Analysis
 ### 6. Leonidas J. Guibas (his group includes the author of PointNet Charles Ruizhongtai Qi)
@@ -97,6 +97,9 @@ Scene Analysis and Classification
 Robotics for Agriculture
 Unmanned Aerial Vehicles (UAVs and MAVs)
 Autonomous Cars, Logistics, Wheeled Robots, …
+### 2. University of Bonn, Reinhard Klein
+#### (1)主页
+https://cg.cs.uni-bonn.de/en/people/prof-dr-reinhard-klein/
 ## 五、中国香港
 ## 六、加拿大
 ### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
