@@ -38,6 +38,12 @@ http://lidar.radi.ac.cn/
 http://cret.cnu.edu.cn//szdw/js/63076.htm
 #### （2）简介
 > 研究小组主要研究方向为：高光谱影像，点云硬件软件开发
+### 8. 中科院自动化所-模式识别国家重点实验室-机器视觉组
+#### （1）团队主页
+http://vision.ia.ac.cn/zh/index_cn.html
+#### （2）简介
+> 研究组主要研究方向为基于视觉影像的三维场景重建，视觉定位与姿态估计，机器人视觉导航等，同时将计算机视觉技术应用到中国古代文物修复、采矿区域边坡三维重建
+航拍影像自动地形生成等领域。
 ## 二、美国
 ### 1. 普渡大学 Habib教授团队
 #### （1）主页
@@ -62,7 +68,7 @@ http://www.ece.lsu.edu/xinli/
 Geometric Data Processing
 Large-scale Visual (Geometric/Image/Spatiotemporal) Data Modeling and Understanding
 Computer Graphics, Computer Vision, Image Processing and Analysis
-### 6. Leonidas J. Guibas (his group includes the auther of PointNet Charles Ruizhongtai Qi)
+### 6. Leonidas J. Guibas (his group includes the author of PointNet Charles Ruizhongtai Qi)
 #### （1）个人主页
 https://geometry.stanford.edu/member/guibas/   
 https://geometry.stanford.edu/member/rqi/
