@@ -100,6 +100,9 @@ Autonomous Cars, Logistics, Wheeled Robots, …
 ### 2. University of Bonn, Reinhard Klein
 #### (1)主页
 https://cg.cs.uni-bonn.de/en/people/prof-dr-reinhard-klein/
+### 3. Institute for Photogrammetry (ifp), University of Stuttgart
+#### (1)研究所主页
+https://www.ifp.uni-stuttgart.de/en/institute/
 ## 五、中国香港
 ## 六、加拿大
 ### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
