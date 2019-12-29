@@ -106,9 +106,14 @@ https://www.ifp.uni-stuttgart.de/en/institute/
 ## 五、中国香港
 ## 六、加拿大
 ### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
-#### (1)团队主页
+#### (1) 团队主页
 https://www2.cs.sfu.ca/~furukawa/
 ## 七、英国
+### 1. University of Oxford Bo Yang
+#### (1) 个人主页
+https://yang7879.github.io/
+#### （2）简介
+> 研究方向主要包括：（1）实例和语义分割（2）machine learning, computer vision, and robotics
 ## 八、荷兰
 ### 1.University of Twente， George Vosselman
 #### (1)团队主页
