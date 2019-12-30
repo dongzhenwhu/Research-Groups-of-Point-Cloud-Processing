@@ -79,6 +79,11 @@ the Institute for Computational and Mathematical Engineering (iCME) and the Bio-
 His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. 
 Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms 
 --- all areas in which he has published and lectured extensively.
+### 7. UCSD, Su Lab, Hao Su
+#### (1) homepage:
+https://cseweb.ucsd.edu/~haosu/
+#### (2) Masterpiece：
+PointNet, PointNet++
 ## 三、法国
 ### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
 #### （1）主页
@@ -103,7 +108,13 @@ https://cg.cs.uni-bonn.de/en/people/prof-dr-reinhard-klein/
 ### 3. Institute for Photogrammetry (ifp), University of Stuttgart
 #### (1)研究所主页
 https://www.ifp.uni-stuttgart.de/en/institute/
+### 4. TUM, Institute of Photogrammetry & Remote Sensing, Uwe Stilla
+#### (1) Homepage:
+http://www.pf.bgu.tum.de/
 ## 五、中国香港
+### 1. HongKong PolyU, LSGI, Yao Wei
+#### (1) Homepage:
+https://yweirt.github.io/
 ## 六、加拿大
 ### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
 #### (1) 团队主页
@@ -132,7 +143,20 @@ https://www.adelaide.edu.au/aiml/our-research
 https://people.eng.unimelb.edu.au/kkhoshelham/people.html
 ## 十、瑞士
 ### 1.ETH Zurich, Institute of Geodesy and Photogrammetry
-#### (1)团队主页
+#### (1) 团队主页
 https://prs.igp.ethz.ch/
+#### (2) Masterpiece：
+Semantic3D Datase
 ## 十一、其他国家
-
+### 1. National University of Singapore, Gim Hee Lee
+#### (1) homepage
+https://sites.google.com/site/gimheelee/
+#### (2) Research interests
+>Computer Vision: Minimal Problems, 3D Computer Vision, Structure-from-Motion (SfM), Visual Place Recognition, 3D Human Pose Prediction/Estimation, 3D Object Detection, and Scene Understanding.
+Robotic Perception: Self-driving car, Micro-Aerial Vehicles (MAVs), Visual Odometry, and Simultaneous Localization and Mapping (SLAM).
+Machine Learning: Deep Learning and Probabilistic Graphical Modeling.
+### 2. Computer Vision Lab, University of Bologna, Italy
+#### (1) homepage
+http://www.vision.deis.unibo.it/
+#### (2) Masterpiece：
+SHOT
