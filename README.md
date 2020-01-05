@@ -165,3 +165,12 @@ Machine Learning: Deep Learning and Probabilistic Graphical Modeling.
 http://www.vision.deis.unibo.it/
 #### (2) Masterpiece：
 SHOT
+### 3. Applied Geotechnologies Research Group, University of Vigo, Spain 
+#### (1)homepage
+http://geotech.webs.uvigo.es/index.html
+#### (2)leader's  Google Scholar
+https://scholar.google.es/citations?hl=es&user=ukRzH4oAAAAJ&view_op=list_works&sortby=pubdate
+#### (3)团队简介
+>The Applied Geotechnologies Group is a research team at the University of Vigo that develops, tests and applies geo-technologies for problem solving in different fields such as environment, cultural heritage, terrestrial and coastal infrastructures and architecture.
+Nowadays, the main research lines include infrastructure management systems and energy efficiency studies based on as-built BIM reconstruction.
+The group was recently recognized as Galician reference group because of the quality of the scientific publications and the number of successful R&D projects funded by external agents.
