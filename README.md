@@ -89,10 +89,16 @@ Professor Guibas' interests span computational geometry, geometric modeling, com
 https://cseweb.ucsd.edu/~haosu/
 #### (2) Masterpiece：
 PointNet, PointNet++
+### 8.NYU, Urban Modeling
+#### (1)https://wp.nyu.edu/urbanmodeling/our-work/projects/
 ## 三、法国
 ### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
 #### （1）主页
 http://caor-mines-paristech.fr/en/research/point-cloud-and-3d-modeling-pc3dm/
+### 2.Inria Titane-Geometric Modeling of 3D Environments
+#### （1）主页https://team.inria.fr/titane/
+#### （2）简介
+> Our overall objective is the computerized geometric modeling of complex scenes from physical measurements. On the geometric modeling and processing pipeline, this objective corresponds to steps required for conversion from physical to effective digital representations: analysis, reconstruction and approximation. The related scientific challenges include i) being resilient to defect-laden data due to the uncertainty in the measurement processes and imperfect algorithms along the pipeline, ii) being resilient to heterogeneous data, both in type and in scale, iii) dealing with massive data, and iv) recovering or preserving the structure of complex scenes. We define the quality of a computerized representation by its i) geometric accuracy, or faithfulness to the physical scene, ii) complexity, iii) structure accuracy and controllability, and iv) amenability to effective processing and high level scene understanding.
 ## 四、德国
 ### 1. Cyrill Stachniss
 #### (1)个人主页
@@ -139,6 +145,8 @@ https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-jan-boe
 ### 1.University of Twente， George Vosselman
 #### (1)团队主页
 https://research.utwente.nl/en/persons/george-vosselman
+### 2.Delft, 3D GeoInformation Group
+#### （1）团队主页https://3d.bk.tudelft.nl/
 ## 九、澳大利亚
 ### 1.The University of Adelaide
 #### 研究所主页
@@ -152,6 +160,11 @@ https://people.eng.unimelb.edu.au/kkhoshelham/people.html
 https://prs.igp.ethz.ch/
 #### (2) Masterpiece：
 Semantic3D Datase
+### 2.ETH Zurich, Institute for Visual Computing
+#### (1）团队主页
+Computer Vision and Geometry Group(CVCG) https://cvg.ethz.ch/people/faculty/
+Interactive Geometry Lab(IGL) https://igl.ethz.ch/
+Computer Graphics Laboratory(CGL) https://cgl.ethz.ch/people/faculty.php
 ## 十一、其他国家
 ### 1. National University of Singapore, Gim Hee Lee
 #### (1) homepage
